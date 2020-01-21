@@ -1,0 +1,12 @@
+.main{
+    padding-left: 30px;
+}
+.up{
+    padding-top: 50px;
+    display: flex;
+    padding-bottom: 50px;
+}
+.up button{
+    margin-left: 20px;
+
+}
